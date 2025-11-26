@@ -4,7 +4,6 @@ A modern, interactive web-based simulator for visualizing and analyzing CPU proc
 
 ![CPU Scheduler Simulator](https://img.shields.io/badge/Status-Active-success)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## 🌟 Features
 
