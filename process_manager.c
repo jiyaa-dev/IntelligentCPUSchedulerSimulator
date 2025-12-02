@@ -17,7 +17,7 @@ void inputProcesses(Process processes[], int *n) {
         processes[0] = (Process){1, 0, 5, 2, -1, 0, 0, 0, 5};
         processes[1] = (Process){2, 1, 3, 1, -1, 0, 0, 0, 3};
         processes[2] = (Process){3, 2, 8, 3, -1, 0, 0, 0, 8};
-        printf("Loaded default processes for demonstration.\n");
+         printf("Loaded default processes for demonstration.\n");
         return;
     }
     
